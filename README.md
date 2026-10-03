@@ -25,7 +25,7 @@ In Python, values such as numbers, strings, lists, functions, and classes are ob
 
 ```python
 number = 10
-name = "Aishu"
+name = "sakshi"
 marks = 85.5
 numbers = [10, 20, 30]
 ```
